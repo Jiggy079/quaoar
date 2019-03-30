@@ -1,7 +1,7 @@
 ## Welcome to Quaoar's support site
 
 
-**Quaoar** is a discord.py for MyAnimeList.net, currently capable of:
+**Quaoar** is a bot written in discord.py for MyAnimeList.net, currently capable of:
 - searching for specific anime and providing some information about it
 - displaying the top anime on MAL
 
