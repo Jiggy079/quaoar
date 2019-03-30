@@ -16,3 +16,6 @@ The top command displays the top anime on MAL, up to the amount specified. For e
 - &printhelp
 
 The printhelp command pretty much displays a condensed version of this page in the channel the command was invoked.
+
+# Need help/got questions?
+Send me a message on discord: **Jiggy#5796**
