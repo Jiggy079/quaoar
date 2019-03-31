@@ -9,7 +9,7 @@
 The command prefix for Quaoar is **&**. The commands are:
 - &search (anime)
 
-The search anime displays information from MAL about an anime. This information includes the title, status (airing or finished), episodes, link to the MAL page and more.
+The search command displays information from MAL about an anime. This information includes the title, status (airing or finished), episodes, link to the MAL page and more.
 - &top (amount)
 
 The top command displays the top anime on MAL, up to the amount specified. For example &top 5 shows the top five.
