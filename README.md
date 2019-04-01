@@ -17,5 +17,11 @@ The top command displays the top anime on MAL, up to the amount specified. For e
 
 The printhelp command pretty much displays a condensed version of this page in the channel the command was invoked.
 
+# To-do list
+- Fix sections of synopsis not being sent
+- Improve accuracy of searches
+- Add more anime/alternative names that can be recognised
+- Add different options for **&top** command e.g top scoring
+
 # Questions or suggestions?
 Send me a message on discord: **Jiggy#5796**
