@@ -4,6 +4,7 @@
 **Quaoar** is a bot written in discord.py for MyAnimeList.net, currently capable of:
 - searching for specific anime and providing some information about it
 - displaying the top anime on MAL
+
 The **source code** is available [here.](https://github.com/Jiggy079/quaoar-source "source code")
 
 # Commands
